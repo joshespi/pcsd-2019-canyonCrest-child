@@ -32,9 +32,9 @@
 			</a>
 				<aside>
 					<ul class="sociallinks">
-						<!-- <li><a href="http://www.instagram.com/edgemont_elementary/"><img src="<?php echo get_template_directory_uri() .'/assets/icons/socialmedia-instagram-white.svg' ?>" alt="Link to Instagram" /></span>
+						<li><a href="https://www.instagram.com/canyoncrestpta/ "><img src="<?php echo get_template_directory_uri() .'/assets/icons/socialmedia-instagram-white.svg' ?>" alt="Link to Instagram" /></span>
 							</a>
-						</li> -->
+						</li>
 						<li><a href="https://twitter.com/CanyonCrestPCSD"><img src="<?php echo get_template_directory_uri() .'/assets/icons/socialmedia-twitter-white.svg' ?>" alt="Link to Twitter" /></span>
 							</a>
 						</li>
