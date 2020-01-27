@@ -7,6 +7,7 @@
 			                <li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3320-Prohibition-of-Bullying-Harassment-Hazing-and-Retaliation.pdf">3320 Prohibition of Bullying...</a></li>
 			                <li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3416-Administration-of-Medication-to-Students.pdf">3416 Administration of Medication</a></li>
 			                <li class="pdf"><a href="https://provo.edu/wp-content/uploads/2017/01/4202-Electronic-Reources.pdf">4202 Electronic Resources</a></li>
+			                <li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3214-NON-DISCRIMINATION-AND-SEXUAL-HARASSMENT.pdf">3214 Non-Discrimination and Sexual Harassment</a></li>
 			                <li class="ext"><a href="https://provo.edu/policies-procedures-forms/3000-students/">Additional Student Policies</a></li>
 						</ul>
 				</div>
